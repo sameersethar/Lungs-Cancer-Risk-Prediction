@@ -219,8 +219,8 @@ The model uses `predict_proba()` to return a continuous risk score rather than a
 ## 👤 Author
 
 **Sameer Sethar**
-- GitHub: [@yourusername](https://github.com/sameersethar)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/sameer-sethar)
+- GitHub: [Click here](https://github.com/sameersethar)
+- LinkedIn: [Click Here](https://linkedin.com/in/sameer-sethar)
 
 ---
 
