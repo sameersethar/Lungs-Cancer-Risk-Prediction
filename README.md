@@ -1,4 +1,4 @@
-# 🫁 Lung Cancer Risk Prediction System
+# Lung Cancer Risk Prediction System
 
 A machine learning-based command-line tool that predicts the risk of lung cancer based on patient symptoms and demographic information.
 
@@ -219,6 +219,7 @@ The model uses `predict_proba()` to return a continuous risk score rather than a
 ## 👤 Author
 
 **Sameer Sethar**
+- Portfolio: [Click Here](https://sameersethar.me)
 - GitHub: [Click here](https://github.com/sameersethar)
 - LinkedIn: [Click Here](https://linkedin.com/in/sameer-sethar)
 
